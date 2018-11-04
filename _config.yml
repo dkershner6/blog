@@ -14,3 +14,5 @@ theme:            jekyll-theme-slate
 paginate: 5
 
 show-downloads:   false
+
+baseurl: "/blog/"
