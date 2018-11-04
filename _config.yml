@@ -15,4 +15,4 @@ paginate: 5
 
 show-downloads:   false
 
-baseurl: "/blog/"
+baseurl: /blog
